@@ -1,5 +1,6 @@
 # Analysis-of-image-classification-using-tensorflow-example-
-to analyze the basic methods and their functioning , using fashion MNIST dataset
+AIM:
+to analyze and understand the basic methods of keras/tensorflow  and their functioning  
 
 What is image classification?
 A common use of machine learning is to identify what an image represents. For example, we might want to know what type of animal appears in the a photograph.
